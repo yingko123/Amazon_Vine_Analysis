@@ -3,9 +3,10 @@
 ## Overview:
 We will analyze Amazon reviews and determine if Vine reviews (paid) exhibit favorable bias compared to unpaid reviews.
 
-We first perform ETL on the furniture review dataset from the [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) and load the data into four SQL tables
+We first perform ETL on the furniture review dataset from the [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) and load the data into four SQL tables. <br>
 </br>
 *see detail code and outputs in the [Amazon_Reviews_ETL file](Amazon_Reviews_ETL.ipynb)*
+
 
 ![SQL_tables](images/SQL_tables.JPG)
 
